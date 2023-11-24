@@ -25,6 +25,8 @@
     "typescript": "^4.9.3"
   },
   "dependencies": {
-    "nexe": "4.0.0-rc.2"
+    "json5": "^2.2.3",
+    "nexe": "4.0.0-rc.2",
+    "yargs": "^17.7.2"
   }
 }
