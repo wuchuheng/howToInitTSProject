@@ -1,4 +1,3 @@
-
 // // A simple command-line argument parser function for QuickJS
 // function parseArgs(args) {
 //     const parsed = {};
